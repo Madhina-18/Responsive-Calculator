@@ -13,4 +13,4 @@ This project is a responsive and interactive calculator built using HTML, CSS, a
 - *JavaScript*: Functionality and interactive features
 
 ## How to Use
-1. Clone the repository:
+1. Clone the repository:https://madhina-18.github.io/Responsive-Calculator/
